@@ -1,0 +1,7 @@
+.loadMoreBtn {
+  /* background-color: rgb(234, 242, 214); */
+  border: 2px solid rgb(14, 40, 184);
+  background-color: rgb(29, 89, 199);
+  height: 30px;
+  color: white;
+}

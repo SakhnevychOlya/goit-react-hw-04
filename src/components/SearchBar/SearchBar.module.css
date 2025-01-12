@@ -1,0 +1,27 @@
+.boxForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(139, 190, 231);
+  height: 60px;
+  margin-bottom: 20px;
+}
+
+.searchForm {
+  display: flex;
+  gap: 20px;
+}
+
+.inputForm {
+  height: 30px;
+  border: none;
+  outline: none;
+  padding: 10px;
+  background-color: rgb(214, 238, 242);
+}
+
+.formBtn {
+  border: 2px solid rgb(7, 42, 95);
+  background-color: rgb(59, 95, 211);
+  color: white
+}
